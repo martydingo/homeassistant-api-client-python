@@ -1,0 +1,7 @@
+board:
+  wifi:
+    ssid: "DingoFi"
+    password: "PuppyDog"
+homeassistant:
+  homeassistant_base_url: "https://home.dingo.sh"
+  homeassistant_token: "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiI3YWMyMmIzZGI4ZGU0NWM5OTUwZTM2OGM4NTcxMTk4MSIsImlhdCI6MTYzOTEzODQwNSwiZXhwIjoxOTU0NDk4NDA1fQ.1VO0ZDtyJnzEjV-IdPzpHBcj6VUKivNtI16GJ4UvWwQ"

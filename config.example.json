@@ -1,0 +1,12 @@
+{
+    "board": {
+      "wifi": {
+        "ssid": "",
+        "passphrase": ""
+      }
+    },
+    "homeassistant": {
+      "homeassistant_base_url": "",
+      "homeassistant_token": ""
+    }
+  }
