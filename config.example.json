@@ -6,7 +6,7 @@
       }
     },
     "homeassistant": {
-      "homeassistant_base_url": "",
+      "homeassistant_base_url": "http://hass:8123",
       "homeassistant_token": ""
     }
   }
